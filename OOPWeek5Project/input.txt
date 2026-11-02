@@ -1,0 +1,13 @@
+3 345
+Lisa_Miller 890238 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+ComputerSci CSC478 3 B
+History HIS356 3 A
+John_Smith 890239 N 3
+Programming CSC101 4 A
+Database CSC202 3 B
+Algorithms CSC303 3 C
+Emma_Brown 890240 Y 2
+Physics PHY101 4 B
+Mathematics MTH101 3 A

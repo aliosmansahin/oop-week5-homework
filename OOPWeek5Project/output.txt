@@ -1,0 +1,32 @@
+=================STUDENTS=================
+Student Name: Lisa Miller
+Student ID: 890238
+Number of courses enrolled: 4
+
+Course No   Course Name    Credits   Grade
+CSC478      ComputerSci       3        B
+HIS356      History           3        A
+MTH345      Mathematics       4        A
+PHY357      Physics           3        B
+
+Total number of credits: 13
+Mid-Semester GPA: 3.54
+------------------------------------------
+Student Name: John Smith
+Student ID: 890239
+Number of courses enrolled: 3
+
+Grades are withheld due to unpaid tuition.
+Total number of credits: 10
+Outstanding tuition: 3450
+------------------------------------------
+Student Name: Emma Brown
+Student ID: 890240
+Number of courses enrolled: 2
+
+Course No   Course Name    Credits   Grade
+MTH101      Mathematics       3        A
+PHY101      Physics           4        B
+
+Total number of credits: 7
+Mid-Semester GPA: 3.43
